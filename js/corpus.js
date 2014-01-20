@@ -29,7 +29,7 @@ var templates = [
   "@name can really jam hard like a @adjective @noun",
   "@name was mad as a @noun",
   "@name threatened my life with a @weapon",
-  "@name tried to @verb my @adjective @noun at least @amount times.",
+  "@name tried to @verb my @adjective @noun at least @amount times",
   "@name pointed a @weapon at me in @place at @time on @date",
   "Suddenly, @noun and @noun went to @place and rocked the @noun",
   "The @adjective joyride transformed into a @adjective @noun",
@@ -38,7 +38,7 @@ var templates = [
   "The @noun is the reason why people @verb you",
   "The @noun was whipping the @noun's ass",
   "Tree my @noun and @verb me of my @noun",
-  "When I went to @place that same @day, I picked up a @noun"
+  "When I went to @place that same @day, I picked up a @noun",
   "You can really @verb @name's @noun",
   "You are the most dangerous @noun that I have ever felt",
   "Your @adjective @noun is the @noun to our @noun"
@@ -95,7 +95,7 @@ corpus.time = ["1:30 AM", "2:10 AM", "11:20 AM", "11:30 AM", "11:55 AM", "1:55 P
 
 corpus.verb = ["beat", "blast", "brandish", "burn", "bust", "crack", "curse", "cut", "drive", "duke", "eat", "eject", "feel", "fill", "fuck", "hit", "knock", "kick", "kill", "kiss", "love", "make", "murder", "persecute", "play", "pull", "ride", "roar", "rock", "run", "screw", "shoot", "sing", "slim", "smash", "smoke", "stab", "suck", "throw","turn", "whip", "whip", "yell"];
 
-corpus.verbPast = ["beat", "blasted", "brandished", "burned", "busted", "cracked", "cursed", "cut", "ate", "drove", "felt", "filled", "fucked", "hit", "knocked", "kicked", "killed", "kissed", "loved", "made", "murdered", "persecuted", "played", "pulled", "rode", "roared", "rocked", "ran", "sang", "screwed", "shot", "slashed", "slimmed", "smoked", "stabbed", "sucked", "threw",  "turned", "whipped", "yelled"];
+corpus.verbPast = ["beat", "blasted", "brandished", "burned", "busted", "cracked", "cursed", "cut", "ate", "drove", "felt", "filled", "fucked", "hit", "knocked", "kicked", "killed", "kissed", "loved", "made", "murdered", "persecuted", "played", "pulled", "rode", "roared", "rocked", "ran", "sang", "screwed", "shot", "slashed", "slimmed", "smoked", "stabbed", "sucked", "threw", "turned", "whipped", "yelled"];
 
 corpus.weapon = [".357 Magnum", ".38", ".38 caliber revolver", "12-gauge",  "baseball bat", "beating stick", "billy club", "box cutter", "gun", "handgun", "karate stick", "pistol", "semi-automatic", "Uzi submachine gun"];
 
