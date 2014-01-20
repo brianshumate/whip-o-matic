@@ -1,0 +1,71 @@
+.pure-g { letter-spacing: -0.31em; *letter-spacing: normal; *word-spacing: -0.43em; text-rendering: optimizespeed; } .opera-only :-o-prefocus, .pure-g { word-spacing: -0.43em; } .pure-u { display: inline-block; zoom: 1; *display: inline; letter-spacing: normal; word-spacing: normal; vertical-align: top; text-rendering: auto; } .pure-u-1 { display: inline-block; zoom: 1; *display: inline; letter-spacing: normal; word-spacing: normal; vertical-align: top; text-rendering: auto; } .pure-u-1 { display:block; } .pure-g-r { letter-spacing: -0.31em; *letter-spacing: normal; word-spacing: -0.43em; } .opera-only :-o-prefocus, .pure-g-r { word-spacing: -0.43em; } .pure-g-r img { max-width: 100%; } @media (min-width:980px) { .pure-visible-phone { display: none; } .pure-visible-tablet { display: none; } .pure-visible-desktop { } .pure-hidden-phone { } .pure-hidden-tablet { } .pure-hidden-desktop { display: none; } } @media (max-width:480px) { .pure-g-r > [class ^= "pure-u"] { width:100%; } } @media (max-width:767px) { .pure-g-r > [class ^= "pure-u"] { width:100%; } .pure-visible-phone { } .pure-hidden-phone { display: none; } .pure-hidden-desktop { } .pure-visible-desktop { display: none; } } @media (min-width:768px) and (max-width:979px) { .pure-visible-tablet {} .pure-hidden-tablet { display: none; } .pure-hidden-desktop {} .pure-visible-desktop { display: none; } }
+
+body {
+  background-color: #deebee;
+}
+
+header h1 {
+  color: #b0ced5;
+  letter-spacing: .02em;
+}
+
+#output {
+  color: #0189b4;
+	font-size: 36px;
+	margin: 60px 0;
+  text-transform: uppercase;
+}
+
+aside {
+	position: absolute;
+	margin: 12px 8px;
+	right: 0;
+	top: 0;
+}
+
+#share li {
+	list-style: none;
+	display: inline;
+}
+
+#share-facebook {}
+#share-twitter {position: relative; top: -1px;}
+.twitter-share-button {
+	font-size: 11px;
+	color: #e7e7e7;
+}
+
+footer {
+	text-transform: none;
+	/*position: absolute;*/
+	text-align: right;
+	line-height: 16px;
+	font-size: 12px;
+	color: #666;
+	margin: 12px 24px;
+	bottom: 0;
+	right: 0;
+}
+
+footer a {
+	text-decoration: none;
+	color: #000;
+}
+
+footer a:hover {
+	text-decoration: underline;
+}
+
+.pure-button-secondary {
+  color: white;
+  border-radius: 4px;
+  text-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
+  background: rgb(66, 184, 221);
+  font-size: 125%;
+  text-decoration: none;
+  border-bottom: none;
+}
+
+.pure-g {
+ margin: 4em;
+}
