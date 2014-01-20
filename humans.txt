@@ -1,0 +1,18 @@
+/* TEAM */
+
+Creator: Brian Shumate
+Site: http://brianshumate.com/
+Twitter: brianshumate
+Location: North Carolina, USA
+
+/* THANKS */
+
+Name: Wesley Willis
+Name: Justin Windle
+
+/* SITE */
+
+Last update: 2014/01/20
+Standards: HTML5, CSS3, JavaScript
+Components: HTML5 Shiv, jQuery, WTF Engine
+Software: TextMate 2

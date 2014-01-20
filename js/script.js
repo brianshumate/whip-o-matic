@@ -20,11 +20,12 @@
 
 var dom = {};
 var regex = /./;
+var adjective = /\b(a)\b(\s+)?(((<[^>]+>)\s?)+)?(\s+)?([aeiou]|hou)/gim;
 var vowel = /\b(a)\b(\s+)?(((<[^>]+>)\s?)+)?(\s+)?([aeiou]|hou)/gim;
 
 // init
 
-function initialise() {
+function initialize() {
 
 	dom.generate.click(function(){
 
@@ -105,12 +106,14 @@ function generateIdea() {
 
 function correctGrammar(input) {
 
+	// change 'a' to 'an' when before an adjective
+	input = input.replace(adjective, "$1n$2$3$6$7");
+
 	// change 'a' to 'an' when before a vowel
 	input = input.replace(vowel, "$1n$2$3$6$7");
 
   // drop "'s" off nouns ending in "s"
   input = input.replace("s\'s", "s\'");
-
 	return input;
 }
 
@@ -131,7 +134,7 @@ $(document).ready(function(){
 	dom.generate = $("#generate");
 
 	if(corpus) {
-		initialise();
+		initialize();
 	} else {
 		//console.log("corpus not found");
 	}
