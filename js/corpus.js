@@ -76,7 +76,7 @@ corpus.anadjective = ["affordable", "artistic", "awesome"];
 
 corpus.amount = ["14", "200", "800", "900", "950", "1400", "4,000", "5,000", "35,000", "50,000", "100,000", "300,000", "one thousand", "six", "ten million", "twenty"];
 
-corpus.date = ["April 2", "April 4", "August 31", "February 5", "March 5", "March 9", "March 10"];
+corpus.date = ["April 2nd", "April 4th", "August 31st", "February 5th", "March 5th", "March 9th", "March 10th"];
 
 corpus.day = ["Monday", "Wednesday", "Friday", "Saturday", "Sunday"];
 
