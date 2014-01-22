@@ -31,7 +31,7 @@ var templates = [
   "It whipped a @noun's ass for @durations",
   "It whipped a @noun's ass real good",
   "@name can really jam hard like a @adjective @noun",
-  "@name was mad as @noun",
+  "@name was mad as a @noun",
   "@name threatened my life with a @weapon",
   "@name tried to @verb my @adjective @noun at least @amount times",
   "@name pointed a @weapon at me in @place at @time on @date",
