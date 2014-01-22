@@ -48,7 +48,7 @@ var templates = [
   "When I went to @place that same @day, I picked up a @noun",
   "You can really @verb with @name's @noun",
   "You are the most dangerous @noun that I have ever felt",
-  "You used to be the @adjective noun of the @noun",
+  "You used to be the @adjective @noun of the @noun",
   "Your @adjective @noun is the @noun to our @noun"
 ];
 
