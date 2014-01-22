@@ -107,7 +107,7 @@ corpus.speed = ["90 miles per hour", "150 miles per hour"];
 
 corpus.time = ["1:30 AM", "2:10 AM", "11:20 AM", "11:30 AM", "11:55 AM", "1:55 PM", "2:30 PM", "4:30 PM", "6:00 PM", "6:30 PM", "7:30 PM", "8:55 PM", "9:30 PM", "10:00 PM", "midnight"];
 
-corpus.verb = ["beat", "blast", "brandish", "burn", "bust", "crack", "curse", "cut", "discharge", "drive", "duke", "eat", "eject", "feel", "fill", "fuck", "hit", "knock", "kick", "kill", "kiss", "love", "make", "murder", "persecute", "play", "pull", "ride", "roar", "rock", "run", "screw", "shoot", "sing", "slim", "smash", "smoke", "stab", "suck", "throw", "turn", "whip", "whip", "yell at"];
+corpus.verb = ["beat", "blast", "brandish", "burn", "bust", "crack", "curse", "cut", "discharge", "drive", "duke", "eat", "eject", "feel", "fill", "fuck", "hit", "knock", "kick", "kill", "kiss", "love", "make", "murder", "persecute", "play", "pull", "ride", "roar", "rock", "run", "screw", "shoot", "sing", "slim", "smash", "smoke", "stab", "suck", "throw", "turn", "whip", "whip", "yell"];
 
 corpus.weapon = [".357 Magnum", ".38", ".38 caliber revolver", "12-gauge",  "baseball bat", "beating stick", "billy club", "box cutter", "gun", "handgun", "karate stick", "pistol", "semi-automatic", "Uzi submachine gun"];
 
