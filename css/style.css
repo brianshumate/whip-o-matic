@@ -17,8 +17,8 @@ header h1{font-family: bilbo-swash-caps, sans-serif;font-size:4em;color:#0189b4;
 #share li{list-style:none;display:inline;}
 #share-twitter{position:relative;top:0;}
 .twitter-share-button{font-size:11px;color:#e7e7e7;}
-footer{text-transform:none;text-align:right;line-height:16px;font-size:12px;color:#666;bottom:0;right:0;}
-footer a{text-decoration:none;color:#000;}
+footer{text-transform:none;text-align:right;line-height:16px;font-size:12px;color:#0c2d46;bottom:0;right:0;}
+footer a{text-decoration:none;color:#133742;}
 footer a:hover{text-decoration:underline;}
 #credits {padding: 2em 5em 0 0;}
 /* end site styles */
