@@ -13,7 +13,7 @@ article {margin: 0 3em 3em 3em;}
 aside{position:absolute;margin:12px 8px;right:0;top:0;}
 body{background-color:#f7f7f7;}
 header {padding:1em 0 0 3em;}
-header h1{font-family: bilbo-swash-caps, sans-serif;color:#b0ced5;letter-spacing:.02em;}
+header h1{font-family: bilbo-swash-caps, sans-serif;font-size:4em;color:#7e7e7e;letter-spacing:.02em;}
 #output{color:#0189b4;font-size:2.25em;text-transform:uppercase;word-spacing:.15em;}
 #share li{list-style:none;display:inline;}
 #share-twitter{position:relative;top:0;}
