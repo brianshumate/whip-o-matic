@@ -17,4 +17,5 @@ I created this because I am a fan of Wesley Willis' music and visual art, and
 the combinations which appear in the phrases are sometimes hilarious
 (*caution*: they're also NSFW and quite obscene sometimes).
 
-[whip-o-matic in action](http://whipomatic.com/)
+**[whip-o-matic in action](http://whipomatic.com/)**
+
