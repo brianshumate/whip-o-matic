@@ -60,7 +60,7 @@ var phrases = [
 ];
 
 var labels = [
-	"Whip it again!"
+	"WHIP IT"
 ];
 
 corpus = {};
