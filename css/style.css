@@ -12,8 +12,8 @@ article {margin: 0 3em 3em 3em;}
 aside{position:absolute;margin:12px 8px;right:0;top:0;}
 body{background-color:#eff3f6;}
 header {padding:1em 0 0 3em;}
-header h1{font-family: bilbo-swash-caps, sans-serif;font-size:4em;color:#0189b4;letter-spacing:.02em;margin: .10em 0;text-shadow:0 1px 1px rgba(255,255,255,0.2);}
-#output{color:#0c2d46;font-size:2.25em;text-transform:uppercase;word-spacing:.15em;}
+header h1{font-family: bilbo-swash-caps, sans-serif;font-size:4em;color:#0189b4;letter-spacing:.02em;margin: .10em 0;text-shadow:0 1px 1px #c5e1e7;}
+#output{color:#0c2d46;font-size:2.25em;text-transform:uppercase;word-spacing:.15em;text-shadow:.09em .09em 0 rgba(26,201,255,0.6),-.09em -.09em 0 rgba(255,26,107,0.4);}
 #share li{list-style:none;display:inline;}
 #share-twitter{position:relative;top:0;}
 .twitter-share-button{font-size:11px;color:#e7e7e7;}
