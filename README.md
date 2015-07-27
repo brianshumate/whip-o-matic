@@ -5,18 +5,15 @@
 | |/ |/ / / / / / /_/ /_____/ /_/ /_____/ / / / / / /_/ / /_/ / /__
 |__/|__/_/ /_/_/ .___/      \____/     /_/ /_/ /_/\__,_/\__/_/\___/
               /_/
-
 ```
 
-**whip-o-matic** generates randomized phrases derived from a corpus of words
-taken from the song lyrics of the late
+**whip-o-matic** generates randomized phrases derived from a corpus
+derived from the song lyrics of the late
 [Wesley Willis](https://en.wikipedia.org/wiki/Wesley_Willis).
 
-The code is based on [WTF Engine](https://github.com/soulwire/WTFEngine).
-
-I created this because I am a fan of Wesley Willis' music and visual art, and
+Code based on [WTF Engine](https://github.com/soulwire/WTFEngine), and
+created because I am a fan of Wesley Willis' music and visual art;
 the combinations which appear in the phrases are sometimes hilarious
-(*caution*: they're also NSFW and quite obscene sometimes).
+(*caution*: they're also NSFW and can be obscene).
 
-**[whip-o-matic in action](http://whipomatic.com/)**
-
+**[whip-o-matic in action](http://whipomatic.brianshumate.com/)**
