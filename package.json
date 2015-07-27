@@ -1,0 +1,34 @@
+{
+  "name": "whip-o-matic",
+  "version": "0.2.1",
+  "description": "The Wesley Willis inspired phrase generator",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp": "~3.5.2",
+    "gulp-minify-css": "~0.3.0",
+    "gulp-concat": "~2.1.7",
+    "gulp-util": "~2.2.14",
+    "gulp-uncss": "^0.4.0",
+    "gulp-imagemin": "^0.1.5",
+    "gulp-uglify": "^0.2.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/brianshumate/whip-o-matic.git"
+  },
+  "keywords": [
+    "Wesley Willis",
+    "generator",
+    "random",
+    "serendipity"
+  ],
+  "author": "Brian Shumate",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/brianshumate/whip-o-matic/issues"
+  },
+  "homepage": "https://github.com/brianshumate/whip-o-matic"
+}
